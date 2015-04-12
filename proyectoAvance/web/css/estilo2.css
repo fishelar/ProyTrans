@@ -1,0 +1,61 @@
+*{
+		margin: 0px;
+		padding: 0px;
+                color: white;
+		}
+		
+		form{
+			background:#333333;
+			width: 360px;
+			border: 1px solid red;
+			border-radius: 3px;
+			-moz-border-radius:3px;
+			-webkit-border-radius:3px;
+			box-shadow: inset 0 0 10px #000;
+			margin: 100px auto;
+		}
+		form h1{
+			text-align: center;
+			color: blue;
+			font-weight: normal;
+			font-size: 40pt;
+			font-family: 'Pinyon Script', cursive;
+		}
+                        form input{
+			width: 280px;
+			height: 35px;
+			padding: 0px 10px;
+			margin: 10px 30px;
+			color: black;
+		        
+
+		}
+		form button{
+			width: 135px;
+			margin: 20px 0px 30px 30px;
+			height: 50px;
+			background: hsl;
+			 border: 1px solid #232323;
+			 color: red;
+			 box-shadow: 0px 2px 0px #000;
+			 -moz-box-shadow: 0px 2px 0px #000;
+			 -webkit-box-shadow: 0px 2px 0px #000;
+			 border-radius: 3px;
+			 -moz-border-radius: 3px;
+			 -webkit-border-radius: 3px;
+		}
+			form button:hover{
+				background: green;
+			}
+			form button:active{
+				background: #282828; 
+				background: scroll;
+			}
+                        .t{
+                        
+                        background: black;
+                        
+                        }
+                        .he{
+                        	color: green;
+                        }

@@ -1,0 +1,52 @@
+.global{
+    
+	margin: auto;
+	background: red;
+}
+.carousel-control
+{
+width: 100px;
+ height: 200px;
+
+}
+.slide{
+	margin-left:380px;
+	margin-top: -100px;
+	margin-bottom: -110px;
+	border-radius: 50em;
+}
+
+.login{
+    
+    margin-bottom: -10px;
+}
+
+.carousel{
+    
+    margin-bottom:160px;
+    margin-top: 160px;
+    margin-left: 155px;
+    width: 600px;
+    height: 200px;
+}
+.pie{
+	background: black;
+	border-radius: 0.26em;
+	color: white;
+	text-align: center;
+	width: 1100px;
+	height: 20px;
+	margin-left: 150px;
+}
+.menu{
+    
+	text-align: center;
+	margin-right: -80px;
+}
+.cabe{
+    margin-left: 50px;
+}
+.tabla
+{
+    text-align: center;
+}

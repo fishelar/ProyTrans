@@ -97,10 +97,25 @@
               </li>
                    
                  
-          </div><!--/.nav-collapse -->
+          </div>
 
         </div>
       </nav>
  </div>
-    
+    <div class="int">
+    		<article>
+    		<hgroup>
+    			<h1> INTEGRANTES:</h1>
+    		</hgrou>
+                <br>
+    		<p>
+                   -Flor Sngama Sangama.
+                   <br>
+                   -Elar Shime Becerra Martinez.
+                   <br>
+                   -Kevin Antony Calderon Guabloche.
+    		</p>
+                </article>
+    				
+    			</div>
 </header>
